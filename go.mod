@@ -1,4 +1,4 @@
-module github.com/forta-network/go-multicall
+module github.com/FraktalDeFiDAO/go-gmx-multicall
 
 go 1.19
 
