@@ -13,7 +13,7 @@ import (
 
 // DefaultAddress is the same for all chains (Multicall3).
 // Taken from https://github.com/mds1/multicall
-const DefaultAddress = "0xcA11bde05977b3631167028862bE2a173976CA11"
+const DefaultAddress = "0xe79118d6D92a4b23369ba356C90b9A7ABf1CB961"
 
 // Caller makes multicalls.
 type Caller struct {
